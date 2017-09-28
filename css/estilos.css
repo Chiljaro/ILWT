@@ -1,0 +1,167 @@
+body {
+	background: #fdfdfd;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header .nav {
+	min-height: 80px;
+	overflow: hidden;
+	background: rgba(255, 255, 255, 0.25);
+}
+
+/*cabeza*/
+.cabeza {
+	position: relative;
+}
+
+/*Slider*/
+.slider {
+	padding: 0;
+}
+
+.slider .col {
+	padding: 0;
+}
+
+.slider img {
+	width: 100%;
+	height: auto;
+
+}
+
+/*Logotipo*/
+
+header .logo h2,
+header .logo a,
+header .logo p {
+	font-size: 16px;
+	display: inline-block;
+	margin: 0;
+}
+
+header .logo h2 {
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+header .logo .icono {
+	color: #464a4c;
+}
+
+header .logo p {
+	color: #464a4c;
+}
+
+/*---Menu---*/
+
+.cabecera {
+	position: absolute;
+}
+header .menu {
+	padding: 0;
+}
+
+header .menu a {
+	display: block;
+	text-decoration: none;
+	color: #242425;
+	padding: 0px 30px;
+}
+
+header .menu a div span {
+	font-weight: 600;
+}
+
+header .menu .c-1 {
+	background: #3da5e2;
+}
+header .menu .c-2 {
+	background: #005385;
+}
+header .menu .c-3 {
+	background: #003855;
+}
+
+header .menu .c-1:hover {
+	background: #1b20ef;
+}
+header .menu .c-2:hover {
+	background: #00426a;
+}
+header .menu .c-3:hover {
+	background: #002d44;
+}
+
+/*Menu*/
+
+.menunav {
+	position: absolute;
+	bottom: 0;
+	padding: 0;
+}
+
+.menunav .nav-link {
+	color: #242425;
+	font-weight: 600;
+}
+
+/*------cuerpo-------*/
+
+.intro {
+	font-weight: 300;
+	font-style: italic;
+}
+
+/*--------Galeria---------*/
+.galeria {
+	padding: 30px 0;
+}
+
+.galeria .modal-dialog {
+	width: 100%;
+	height: 100%;
+	max-height: 100%;
+}	
+
+/*imagen*/
+
+.fondo {
+	
+	height: 600px;
+	background-image: url("../img/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 0;
+}
+
+.color {
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+}
+.oficina {
+	text-transform: uppercase;
+	font-weight: 800;
+	color: #fff;
+	display: block;
+	padding: 30px 0;
+}
+
+.texto {
+	display: block;
+	color: #fff;
+}
+
+.fondo .contenido {
+	height: 100%;
+	width: 100%; 
+}
+
+/*contacto y footer*/
+
+footer {
+	background: #000;
+	padding: 30px 0;
+	color: #fff;
+}
+
+
