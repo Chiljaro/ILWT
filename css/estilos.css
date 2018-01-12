@@ -117,7 +117,7 @@ header .menu .c-3:hover {
 
 /*--------Galeria---------*/
 .galeria {
-	padding: 30px 0;
+	padding: 15px 0;
 }
 
 .galeria .modal-dialog {
@@ -167,10 +167,44 @@ header .menu .c-3:hover {
 	width: 100%;
 }
 
+p{
+	text-align: justify;
+}
+
+.cortar{
+  width:100%;
+  height:auto;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  overflow:hidden;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.cortar:hover {
+  width: 100%;
+  white-space: initial;
+  overflow:visible;
+  cursor: pointer;
+	height: inherit;
+}
 /*contacto y footer*/
 
 footer {
 	background: #000;
 	padding: 30px 0;
 	color: #fff;
+}
+
+.redes-icon{
+	display: flex;
+	justify-content: center;
+	padding-top: 20px
+}
+
+.redes, .formulario, .informacion{
+	padding: 0px 50px 50px;
 }
