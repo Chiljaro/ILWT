@@ -9,6 +9,9 @@ header .nav {
 	background: rgba(255, 255, 255, 0.25);
 }
 
+h3{
+	text-align: center;
+}
 /*cabeza*/
 .cabeza {
 	position: relative;
@@ -31,6 +34,10 @@ header .nav {
 
 .modal-dialog{
 	margin: 0px auto;
+}
+
+.proyecto{
+	text-align: center;
 }
 /*Logotipo*/
 
@@ -152,9 +159,24 @@ header .menu .c-3:hover {
 .oficina {
 	text-transform: uppercase;
 	font-weight: 800;
+	font-size: 25pt;
 	color: #fff;
 	display: block;
-	padding: 30px 0;
+	padding: 20px 0;
+}
+
+.oficinas{
+	font-weight: 600;
+	font-size: 15pt;
+	color: #fff;
+	display: block;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.nav-item{
+		font-size: 15pt;
+		color: #000;
 }
 
 .texto {
@@ -194,7 +216,7 @@ p{
 /*contacto y footer*/
 
 footer {
-	background: #000;
+	background: #111111;
 	padding: 30px 0;
 	color: #fff;
 }
@@ -207,4 +229,9 @@ footer {
 
 .redes, .formulario, .informacion{
 	padding: 0px 50px 50px;
+}
+
+.iconfooter{
+	font-size: 25pt;
+	color: white;
 }
