@@ -173,6 +173,102 @@ header .menu .c-3:hover {
 	height: 100vh
 }
 
+.imageng1{
+	background-image: url("../Fotos pagina/54Dzonaesmeralda/IMG_0031 copy-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng2{
+	background-image: url("../Fotos pagina/Colmenero/IMG_1763-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng3{
+	background-image: url("../Fotos pagina/Comunicacionluminica/Neurona 1-min.png");
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng4{
+	background-image: url("../Fotos pagina/encinos75/IMG_0014-min.JPG");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng5{
+	background-image: url("../Fotos pagina/GIFAN/IMG_1133-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng6{
+	background-image: url("../Fotos pagina/peopleforbikes/IMG_0027-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng7{
+	background-image: url("../Fotos pagina/PFPISO1/20171027_TPAR_01_0165-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng8{
+	background-image: url("../Fotos pagina/PFPISO7/piso7-1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng9{
+	background-image: url("../Fotos pagina/reforma/1374797_549576305127270_1992675478_n-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng10{
+	background-image: url("../Fotos pagina/Risco/DSC01829-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng11{
+	background-image: url("../Fotos pagina/Santacatarina/unspecified3.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
+.imageng12{
+	background-image: url("../Fotos pagina/TrattoriaGiacovanni/IMG_5913-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 220px;
+}
+
 .fondo {
 	background-image: url("../Fotos pagina/PFPISO1/20171027_TPAR_01_0203-min.jpg");
 	background-repeat: no-repeat;
