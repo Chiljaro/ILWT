@@ -32,6 +32,12 @@ h3{
 
 }
 
+@media (max-width: 700px)  {
+	 .slider img {
+		 height: 100%;
+	 }
+}
+
 .modal-dialog{
 	margin: 0px auto;
 }
@@ -229,6 +235,16 @@ footer {
 
 .redes, .formulario, .informacion{
 	padding: 0px 50px 50px;
+}
+
+.red-icon{
+	text-align: center;
+}
+
+@media (max-width: 700px)  {
+	.red-icon{
+	 display: inline-block;
+	}
 }
 
 .iconfooter{
