@@ -6,7 +6,7 @@ body {
 header .nav {
 	min-height: 80px;
 	overflow: hidden;
-	background: rgba(255, 255, 255, 0.25);
+	background: rgba(255, 255, 255, 0.5);
 }
 
 h3{
@@ -149,6 +149,29 @@ header .menu .c-3:hover {
 	width: 100%;
 }
 /*imagen*/
+.imagen1{
+	background-image: url("../Fotos pagina/PFPISO7/piso7-2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh
+}
+
+.imagen2{
+	background-image: url("../Fotos pagina/GIFAN/IMG_1133-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh
+}
+
+.imagen3{
+	background-image: url("../Fotos pagina/Colmenero/IMG_1763-min.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh
+}
 
 .fondo {
 	background-image: url("../Fotos pagina/PFPISO1/20171027_TPAR_01_0203-min.jpg");
@@ -159,7 +182,7 @@ header .menu .c-3:hover {
 }
 
 .color {
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.9);
 	width: 100%;
 }
 .oficina {
