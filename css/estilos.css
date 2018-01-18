@@ -278,7 +278,7 @@ header .menu .c-3:hover {
 }
 
 .color {
-	background-color: rgba(0,0,0,0.9);
+	background-color: rgba(0,0,0,0.5);
 	width: 100%;
 }
 .oficina {
@@ -349,7 +349,7 @@ footer {
 .redes-icon{
 	display: flex;
 	justify-content: center;
-	padding-top: 20px
+	padding-top: 35px
 }
 
 .redes, .formulario{
